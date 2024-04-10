@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "La etiqueta para la versión actual"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Básicos",
+    "description": "La etiqueta para la categoría Tutorial - Básicos en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutos para aprender los conceptos más importantes de Docusaurus.",
+    "description": "La descripción de la página generated-index para la categoría Tutorial - Básicos en la barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "La etiqueta para la categoría Tutorial - Extras en la barra lateral tutorialSidebar"
+  }
+}
